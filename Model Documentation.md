@@ -1,10 +1,10 @@
-﻿﻿## Writeup Report
+## Writeup Report
 
 ---
 
 **CarND-Path-Planning-Project**
 
-(Note - Hi , The visualization for the simulator on my machine is available at - https://youtu.be/Sej0m-YtBc0)
+(Note - Hi , The visualization for the simulator on my machine is available at - https://youtu.be/7O64T5T7y28)
 
 The goal of the project is to design a path planner that is able to create smooth, safe paths for the car to follow along a 3 lane highway with traffic.
 
